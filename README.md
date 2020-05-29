@@ -13,7 +13,7 @@ The following office hours are offered to tackle:
 **Part 4**: [Optimizing schedules, allocations and plans through multiple programming models with Nerav Doshi](part4/README.md)
 
 ## How to register
-TBD 
+[Register for all four parts at once](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=2380299&sessionid=1&key=C0CE5B35C05EAC884858E98ABDFE9BBA&regTag=1083399&sourcepage=register)
 
 ## Slack information
 TBD
