@@ -4,13 +4,13 @@ Back by popular demand, IBM developer and Digital Technical Engagement  (DTE) te
 
 The following office hours are offered to tackle: 
 
-**Part 1**: Getting started with Upkar Lidder
+**Part 1**: [Getting started with Upkar Lidder](part1/README.md)
 
-**Part 2**: Building and deploying models using AutoAI with Jacques Roy
+**Part 2**: [Building and deploying models using AutoAI with Jacques Roy](part2/README.md)
 
-**Part 3**: Managing and measuring models for trust and transparency with Eric Martens
+**Part 3**: [Managing and measuring models for trust and transparency with Eric Martens](part3/README.md)
 
-**Part 4**: Optimizing schedules, allocations and plans through multiple programming models with Nerav Doshi
+**Part 4**: [Optimizing schedules, allocations and plans through multiple programming models with Nerav Doshi](part4/README.md)
 
 ## How to register
 TBD 
