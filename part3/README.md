@@ -1,0 +1,1 @@
+# Part 3: Managing and measuring models for trust and transparency with Eric Martens
