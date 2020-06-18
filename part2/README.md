@@ -10,4 +10,6 @@ To See how AutoAI works, please consult the <a href="https://www.ibm.com/demos/c
 For a quick product tour, please try the product tour:
 - <a href="https://www.ibm.com/cloud/garage/dte/producttour/autoai-create-optimal-models-easy-use-interface">IBM Watson Studio AutoAI: Create optimal models with an easy-to-use interface</a>
   
-  
+For more adventurous people, you can try a hands on lab.
+I would suggest the lab that was used in the May 15, 2020 workshop:
+- <a href="https://github.com/lidderupk/ai-developer/blob/master/part2/May15LabInstructions.pdf">AutoAI Deep Dive Workshop</a>
