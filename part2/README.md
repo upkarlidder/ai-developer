@@ -1,4 +1,5 @@
-# Part 2: Building and deploying models using AutoAI with Jacques Roy
+# Part 2: Building and deploying models using AutoAI 
+## with Jacques Roy
 
 AutoAI is a strategic tool for business to successfully infuse AI into their business applications.
 To know more about the benefits of AutoAI, please review the following article:
