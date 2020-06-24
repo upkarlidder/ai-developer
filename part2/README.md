@@ -18,4 +18,4 @@ I would suggest the lab that was used in the May 15, 2020 workshop:
 ### Other Useful information
 - Data science concepts: <a href="https://youtube.com/c/ByteSizeDataScience">Byte Size data Science</a> youtube channel
 - IBM Watson Studio demo site: <a href="https://www.ibm.com/demos/collection/IBM-Watson-Studio/">Videos, Product Tours, and Tutorials</a>
-- IBM Watson Machine Learning site: <a href="https://www.ibm.com/demos/collection/Watson-Machine-Learning/>Videos, Product Tours, and Tutorials</a>
+- IBM Watson Machine Learning site: <a href="https://www.ibm.com/demos/collection/Watson-Machine-Learning/">Videos, Product Tours, and Tutorials</a>
