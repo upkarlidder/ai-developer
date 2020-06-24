@@ -14,3 +14,8 @@ For a quick product tour, please try the product tour:
 For more adventurous people, you can try a hands on lab.
 I would suggest the lab that was used in the May 15, 2020 workshop:
 - <a href="https://github.com/lidderupk/ai-developer/blob/master/part2/May15LabInstructions.pdf">AutoAI Deep Dive Workshop</a>
+
+### Other Useful information
+- Data science concepts: <a href="https://youtube.com/c/ByteSizeDataScience">Byte Size data Science</a> youtube channel
+- IBM Watson Studio demo site: <a href="https://www.ibm.com/demos/collection/IBM-Watson-Studio/">Videos, Product Tours, and Tutorials</a>
+- IBM Watson Machine Learning site: <a href="https://www.ibm.com/demos/collection/Watson-Machine-Learning/>Videos, Product Tours, and Tutorials</a>
