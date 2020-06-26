@@ -16,7 +16,7 @@ The following office hours are offered to tackle:
 [Register for all four parts at once](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=2380299&sessionid=1&key=C0CE5B35C05EAC884858E98ABDFE9BBA&regTag=1083399&sourcepage=register)
 
 ## Slack information
-TBD
+email Julianna@ibm.com to join https://ibm-analytics.slack.com/archives/G013080A6CF
 
 ## Contact Information
 TBD
