@@ -1,0 +1,11 @@
+
+{
+    "predictions": [
+        {
+            "fields": [ "prediction", "probability" ],
+            "values": [
+                [  "F",[ 0.9998107549005233, 0.0001892450994767305 ] ]
+            ]
+        }
+    ]
+}
