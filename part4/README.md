@@ -12,14 +12,6 @@ IBM offers two ways to start learning DO at no cost: **Decision Optimization for
 * [Experiment with docplex API](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-run-optimization-model-python) – Reserve an instance
 
 
-### Additional resources
-#### Mathematical Programming
-* [Mathematical Optimization for Business Problems](https://cognitiveclass.ai/courses/mathematical-optimization-for-business-problems): A complete free course on Mathematical Programming with introduction, application cases, modeling and introduction to MP algorithms, by Victoria Genin and Shirley de Jonk, IBM Technical writers.
-
-#### Constraint Programming
-* [IBM ILOG CP optimizer for scheduling](https://link.springer.com/epdf/10.1007/s10601-018-9281-x?author_access_token=PvQi2dcbGAy4BzM-mewXmve4RwlQNchNByi7wbcMAY4nHcDNzBIAxP9-qcxkT9nuYdU8nXJOl1k7alaTXN5sqp9XmmnnNJ6ICV9jSnbqGccmnqkClre4b2TTJXn2jwjhdh1oR1DBzW1uOxOO8XYofA%3D%3D), a very complete academic publication from the IBM development team of CP Optimizer
-* [Introduction to CP Optimizer for Scheduling](https://www.slideshare.net/slideshow/embed_code/key/oWg78pKbv5TNcF), from [Philippe Laborie](https://www.linkedin.com/in/philippelaborie/) from the IBM CP Optimizer development team.
-
 ## Python docplex
 ### Tutorials
 * [Linear Programming Tutorial notebook part 1.](https://github.com/IBMDecisionOptimization/docplex-examples/blob/master/examples/mp/jupyter/tutorials/Linear_Programming.ipynb)
