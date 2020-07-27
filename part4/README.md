@@ -10,7 +10,7 @@ IBM offers two ways to start learning DO at no cost: **Decision Optimization for
 * [Blog post on starting to use DO for WS Python notebooks](https://medium.com/@AlainChabrier/decision-optimization-generally-available-in-watson-studio-notebooks-514f718b957b)
 * [Demo collection for DO in WS](https://www.ibm.com/demos/collection/IBM-Decision-Optimization-for-Watson-Studio/), videos, product tours and hands-on lab from [Nerav Doshi](https://www.linkedin.com/in/nerav-doshi/), Digital Technical Engagement at IBM.
 * [Experiment with docplex API](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-run-optimization-model-python) – Reserve an instance
-* [Getting Started with Decision Optimization on Watson Machine Learning](https://medium.com/@espi0722/getting-started-with-decision-optimization-on-watson-machine-learning-new-home-for-decision-a2475ba2e407)
+
 
 
 ## CPLEX Optimization Studio
