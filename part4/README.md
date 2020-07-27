@@ -6,18 +6,12 @@ IBM offers two ways to start learning DO at no cost: **Decision Optimization for
 ## LAB for getting familiar with Decision Optimization 
 * [Instructions to complete the lab on assigning resources for COVID19](https://github.com/nmdoshi/WatsonStudioPremium-Tutorial-COVID19-Analysis.git)
 
-
+## Additional material to get familiar with
 * [Blog post on starting to use DO for WS Python notebooks](https://medium.com/@AlainChabrier/decision-optimization-generally-available-in-watson-studio-notebooks-514f718b957b)
 * [Demo collection for DO in WS](https://www.ibm.com/demos/collection/IBM-Decision-Optimization-for-Watson-Studio/), videos, product tours and hands-on lab from [Nerav Doshi](https://www.linkedin.com/in/nerav-doshi/), Digital Technical Engagement at IBM.
 * [Experiment with docplex API](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-run-optimization-model-python) – Reserve an instance
 * [Getting Started with Decision Optimization on Watson Machine Learning](https://medium.com/@espi0722/getting-started-with-decision-optimization-on-watson-machine-learning-new-home-for-decision-a2475ba2e407)
 
-## Existing notebooks to learn from.
-* [Finding optimal locations of new store using Decision Optimization](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/aceccfd155454fd9741852e12e9cce4e)
-* [Maximizing the profit of an oil company](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/4d23b3d57fa821a2d5c726d3f21582f2)
-* [Predictive Maintenance Optimization](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/5d686c16d14491f4c3997b67fed61ec8)
-* [The Nurse Assignment Problem](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/1bee661025715d0712bc5d139b494587)
-* T[he Unit Commitment Problem (UCP)](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/a9df9c4e022991268fad26117f579b44)
 
 ## CPLEX Optimization Studio
 CPLEX Optimization Studio (COS) can be very easily downloaded and installed on your laptop.
