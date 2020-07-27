@@ -7,7 +7,6 @@ IBM offers two ways to start learning DO at no cost: **Decision Optimization for
 * [Instructions to complete the lab on assigning resources for COVID19](https://github.com/nmdoshi/WatsonStudioPremium-Tutorial-COVID19-Analysis.git)
 
 ## Additional material to get familiar with
-* [Blog post on starting to use DO for WS Python notebooks](https://medium.com/@AlainChabrier/decision-optimization-generally-available-in-watson-studio-notebooks-514f718b957b)
 * [Demo collection for DO in WS](https://www.ibm.com/demos/collection/IBM-Decision-Optimization-for-Watson-Studio/), videos, product tours and hands-on lab from [Nerav Doshi](https://www.linkedin.com/in/nerav-doshi/), Digital Technical Engagement at IBM.
 * [Experiment with docplex API](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-run-optimization-model-python) – Reserve an instance
 
