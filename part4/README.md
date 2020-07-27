@@ -3,8 +3,9 @@
 Learn to use tools to develop DO models - There are plenty of tools on the market to develop and solve optimization models, including some open source ones.
 IBM offers two ways to start learning DO at no cost: **Decision Optimization for Watson Studio (DO for WS)** and **CPLEX Optimization Studio (COS)**.
 
-## DO for WS
-Watson Studio makes it possible to use DO in Jupyter notebooks (docplex) and in a dedicated model builder (docplex and OPL). It can be used with for free for some limited duration as part of the Trial plan.
+## LAB for getting familiar with Decision Optimization 
+* [Instructions to complete the lab on assigning resources for COVID19](https://github.com/nmdoshi/WatsonStudioPremium-Tutorial-COVID19-Analysis.git)
+
 
 * [Blog post on starting to use DO for WS Python notebooks](https://medium.com/@AlainChabrier/decision-optimization-generally-available-in-watson-studio-notebooks-514f718b957b)
 * [Demo collection for DO in WS](https://www.ibm.com/demos/collection/IBM-Decision-Optimization-for-Watson-Studio/), videos, product tours and hands-on lab from [Nerav Doshi](https://www.linkedin.com/in/nerav-doshi/), Digital Technical Engagement at IBM.
